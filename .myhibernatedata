@@ -1,0 +1,17 @@
+#MyEclipse Hibernate Properties
+#Sat Apr 19 13:16:42 CST 2014
+genVersionTag=false
+sessionFactoryName=com.MicroERP.order.HibernateSessionFactory
+genAnnotations=false
+configFile=/MicroERP/src/hibernate.cfg.xml
+reStrategyClass=
+sessionFactoryId=
+profile=
+detectM2M=false
+genBasicCompId=false
+keyGenerator=
+createConfigFile=true
+basePersistenceClass=
+detectO2O=false
+useJavaTypes=true
+reSettingsFile=
